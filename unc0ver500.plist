@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/fahlnbg/Install-iPa/releases/download/Ok/Undecimus-v3.8.0.b1.ipa</string>
+					<string>https://app.app-valley.vip/plists/1574/install.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://thuthuatjb.info/files/ttjb.png</string>
+					<string>https://thuthuatjb.com/files/ttjb.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.thuthuatjb.test</string>
+				<string>com.thuthuatjb.unc0vẻ</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>TTJB BOX by thuthuatjb.info</string>
+				<string>TTJB BOX by thuthuatjb.com</string>
 				<key>title</key>
-				<string>🇻🇳test ver1.0 by TTJB BOX 🇻🇳</string>
+				<string>🇻🇳unc0ver 5.0.0 by TTJB BOX 🇻🇳</string>
 			</dict>
 		</dict>
 	</array>
