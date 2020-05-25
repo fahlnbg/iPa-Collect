@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github-production-release-asset-2e65be.s3.amazonaws.com/254325759/69755d80-9e90-11ea-9608-4cfc123a5c4f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200525%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200525T072521Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=2f221b26c1d4ec5388c6bcbd5ecfd147cec046d7241ababedc20342f1da26a71&amp;X-Amz-SignedHeaders=host&amp;actor_id=55876106&amp;repo_id=254325759&amp;response-content-disposition=attachment%3B%20filename%3Dunc0ver-fle.ipa&amp;response-content-type=application%2Foctet-stream</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>noimage</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fahlnbg.app</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>unc0ver</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
