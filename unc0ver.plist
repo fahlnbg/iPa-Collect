@@ -10,7 +10,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://github-production-release-asset-2e65be.s3.amazonaws.com/254325759/69755d80-9e90-11ea-9608-4cfc123a5c4f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200525%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200525T071211Z&X-Amz-Expires=300&X-Amz-Signature=f573e889d2868d0fe83f0ef203bbdd4c2172d8877fb7e7f173b11e7612334eb6&X-Amz-SignedHeaders=host&actor_id=0&repo_id=254325759&response-content-disposition=attachment%3B%20filename%3Dunc0ver-fle.ipa&response-content-type=application%2Foctet-stream</string>
+                   <string>https://github.com/fahlnbg/Install-iPa/releases/download/unc0ver/unc0ver-fle.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
