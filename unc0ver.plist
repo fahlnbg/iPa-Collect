@@ -1,37 +1,49 @@
-or <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+or <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-   <key>items</key>
-   <array>
-       <dict>
-           <key>assets</key>
-           <array>
-               <dict>
-                   <key>kind</key>
-                   <string>software-package</string>
-                   <key>url</key>
-                   <string>https://pqnpw10744noxiw.belugacdn.link/1574.science.xnu.undecimus.ipa</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>noimage</key>
-                   <true/>
-                   <key>url</key>
-                   <string></string>
-               </dict>
-           </array><key>metadata</key>
-           <dict>
-               <key>bundle-identifier</key>
-               <string>com.thuthuatjb.unc0ver</string>
-               <key>bundle-version</key>
-               <string>1.0</string>
-               <key>kind</key>
-               <string>software</string>               
-			   <key>title</key>
-               <string>unc0ver 5.2.0</string>
-           </dict>
-       </dict>
-   </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://dl.thuthuatjb.com/ipa/signed-i/chimera.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://dl.thuthuatjb.com/images/boxlogo.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://dl.thuthuatjb.com/images/boxlogo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.thuthuatjb.Electra</string>
+				<key>bundle-version</key>
+				<string>420.4.20</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>TTJB Team</string>
+				<key>title</key>
+				<string>[TTJB BOX] Chimera</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
