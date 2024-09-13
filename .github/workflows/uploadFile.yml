@@ -1,0 +1,35 @@
+name: Upload file
+
+on:
+  workflow_dispatch:
+    inputs:
+      ipa_url:
+        description: "The direct URL to the decrypted IPA file"
+        default: ""
+        required: true
+        type: string
+
+      upload_to:
+        description: "Upload file to path :"
+        default: "/"
+        required: true
+        type: string
+
+jobs:
+  download-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Download files
+        run: wget -P "${{ github.event.inputs.upload_to }}" "${{ inputs.ipa_url }}"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "FAHLNBG"
+          git config --global user.email "fahlnbg@gmail.com"
+          git add .
+          git commit -m "Download and Upload file via GitHub Actions"
+          git push
